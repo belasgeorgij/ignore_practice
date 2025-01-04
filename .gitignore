@@ -1,6 +1,5 @@
 #Ingore file
-
-#another-file.txt
+new-file.txt
 
 #Ignore dir
 bin/
